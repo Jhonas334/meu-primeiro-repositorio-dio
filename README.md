@@ -1,2 +1,2 @@
-# meu-primeiro projeto de repositorio dio
-projeto primeiro repositorio dio
+# meu-primeiro projeto de repositório da dio
+projeto primeiro repositório dio
